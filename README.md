@@ -1,0 +1,1 @@
+This is an academic system simulation developed entirely in Java as part of a university project. It demonstrates fundamental Object-Oriented Programming (OOP) principles and file-handling capabilities by simulating the essential operations of a correctional facility through a command-line interface.
